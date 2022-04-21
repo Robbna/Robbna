@@ -1,8 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -56,6 +51,12 @@
 <br/>  
 
 
+## 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=robbna&show_icons=true&theme=radical&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+
+<br/>  
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/rxbbna" target="_blank">
@@ -72,14 +73,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=robbna&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Music
   
 
 <br/>  
@@ -90,4 +83,12 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=robbna&&style=flat-square" align="center" />
-</div> 
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
