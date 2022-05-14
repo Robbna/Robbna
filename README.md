@@ -1,9 +1,6 @@
-
-## My Skill Set  
+## :chart_with_upwards_trend: My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
+  
 ### Top technologies  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -44,14 +41,17 @@
 
 <br/>  
 
-
-## 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=robbna&show_icons=true&theme=radical&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
+## :computer: Codewars
+<div align="center">
+  <a href="https://www.codewars.com/users/Robbna">
+    <img src="https://www.codewars.com/users/Robbna/badges/large" align="center" /></a>
+</div> 
 <br/>  
 
 
-## Connect with me  
+## :speech_balloon: Connect with me  
 <div align="center">
 <a href="https://twitter.com/rxbbna" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
