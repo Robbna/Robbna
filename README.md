@@ -51,9 +51,9 @@
 
 # Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=robbna&hide_border=true&theme=radical" style="width: 100%" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=robbna&hide_border=true&theme=transparent&show_icons=true" style="width: 100%" align="center" />
   
  ---
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbna&hide_border=true&theme=radical" style="width: 100%" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbna&hide_border=true&theme=transparent&show_icons=true" style="width: 100%" align="center" />
 </div>  
