@@ -42,4 +42,4 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbna&hide_border=true&layout=compact&theme=radical" style="width: 50%" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbna&hide_border=true&theme=radical" style="width: 100%" align="center" /></div>  
